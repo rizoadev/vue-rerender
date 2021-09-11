@@ -5,7 +5,7 @@
 
 <style>
 .task {
-  width: 400px;
+  width: 600px;
   padding: 10px;
   margin: 0 0 10px 0;
   border: solid 1px #ececec;
@@ -16,7 +16,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  width: 400px;
+  width: 600px;
   margin: 0 auto;
 }
 
